@@ -1,0 +1,13 @@
+# Mac .DS-Store
+*.DS_Store
+# Ignored File Directory
+/ignored/
+# LaTeX Files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
